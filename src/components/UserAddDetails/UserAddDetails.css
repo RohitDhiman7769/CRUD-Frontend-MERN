@@ -1,0 +1,46 @@
+
+.container{
+  /* display: flex; */
+  /* justify-content: center; */
+}
+
+.inputFields{
+      display: grid;
+    gap: 19px;
+}
+
+
+.inputField{
+      width: 242px;
+    height: 47px;
+}
+
+.btn{
+  display: flex;
+    justify-content: center;
+    margin: 21px;
+    height: 35px;
+}
+
+.form{
+  display: flex;
+  justify-content: center;
+}
+
+.btnClass{
+  display: flex;
+  justify-content: center;
+}
+
+.tableData{
+  width: 1000px;
+}
+
+.showData{
+  display: flex;
+  justify-content: center;
+}
+
+.editedInputField{
+  
+}
